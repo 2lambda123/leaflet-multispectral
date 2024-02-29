@@ -1,0 +1,73 @@
+repo_name: 2lambda123/leaflet-multispectral
+report_id: e6377a435fa2227ee7a40b73d65a019d
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-29T19:14:36+00:00'
+requested_by: dependabot-preview[bot]
+provider: github
+branch: main
+detected_tools_count: 5
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/2lambda123/leaflet-multispectral/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: jywarren
+  last_updated_on: 2019-01-30 19:51:28.000000000 Z
+- name: jQuery
+  description: The Write Less, Do More, JavaScript Library.
+  website_url: http://jquery.com/
+  version: 3.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
+  detection_source_url: https://github.com/2lambda123/leaflet-multispectral/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: jywarren
+  last_updated_on: 2019-01-30 19:51:28.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/2lambda123/leaflet-multispectral
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/2lambda123/leaflet-multispectral/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: jywarren
+  last_updated_on: 2019-01-30 19:51:28.000000000 Z
+- name: Leaflet
+  description: JavaScript library for mobile-friendly interactive maps
+  website_url: http://leafletjs.com/
+  version: 1.4.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Mapping APIs
+  image_url: https://img.stackshare.io/service/2392/leaflet_upic.png
+  detection_source_url: https://github.com/2lambda123/leaflet-multispectral/blob/main/package-lock.json
+  detection_source: package.json
+  last_updated_by: Jeffrey Warren
+  last_updated_on: 2019-04-19 17:18:54.000000000 Z
